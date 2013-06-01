@@ -1,4 +1,4 @@
-# [Hardy Ale]
+# Hardy Ale
 
 A three column (left-fixed, right-fixed) google hangout style layout.
 
